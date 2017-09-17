@@ -1,0 +1,5 @@
+dependencies: \
+  /Users/kongyunli/Desktop/FirstApp/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTMultiplicationAnimatedNode.m \
+  /Users/kongyunli/Desktop/FirstApp/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTMultiplicationAnimatedNode.h \
+  /Users/kongyunli/Desktop/FirstApp/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTValueAnimatedNode.h \
+  /Users/kongyunli/Desktop/FirstApp/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTAnimatedNode.h

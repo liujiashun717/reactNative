@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/kongyunli/Desktop/FirstApp/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/kongyunli/.android/build-cache/c3dcb5565abba9e835ccde0ae4940f305b5cc4d7/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/kongyunli/Desktop/FirstApp/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/kongyunli/.android/build-cache/c3dcb5565abba9e835ccde0ae4940f305b5cc4d7/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    }
+]
